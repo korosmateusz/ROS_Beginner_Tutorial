@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'jade
+
+  '
+roslaunch:
+  uris: {host_leopard_robotyka_ia_pw_edu_pl__44486: 'http://leopard.robotyka.ia.pw.edu.pl:44486/'}
+rosversion: '1.11.16
+
+  '
+run_id: a064a294-e44d-11e5-8e48-ecb1d7602b67
